@@ -1,6 +1,13 @@
 # 💫 About Me:
 🚀 Muhammad Zain Aulia Firdaus<br>🔭 Currently building structured web applications and improving my backend foundations.<br>👯 Open to collaborating with developers who value growth and clean architecture.<br>🤝 Looking to deepen my understanding of system design and real development workflows.<br>🌱 Learning by doing and practices every day.<br>💬 Ask me about website, debugging struggles, and leveling up as a developer.<br>⚡ Fun fact: I don’t just want my code to work, I want to understand why it works.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenfirdaus/zenfirdaus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenfirdaus/zenfirdaus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zenfirdaus/zenfirdaus/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1FRLmK1TAp/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_.zeeennn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-zain-368522326) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@zaynn312) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@zennn_channel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zainaulia312@gmail.com) 
