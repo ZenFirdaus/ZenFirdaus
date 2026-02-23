@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=ZenFirdaus&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
 # 💫 About Me:
 🚀 Muhammad Zain Aulia Firdaus<br>🔭 Currently building structured web applications and improving my backend foundations.<br>👯 Open to collaborating with developers who value growth and clean architecture.<br>🤝 Looking to deepen my understanding of system design and real development workflows.<br>🌱 Learning by doing and practices every day.<br>💬 Ask me about website, debugging struggles, and leveling up as a developer.<br>⚡ Fun fact: I don’t just want my code to work, I want to understand why it works.
 
