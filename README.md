@@ -1,6 +1,8 @@
 # 💫 About Me:
 🚀 Muhammad Zain Aulia Firdaus<br>🔭 Currently building structured web applications and improving my backend foundations.<br>👯 Open to collaborating with developers who value growth and clean architecture.<br>🤝 Looking to deepen my understanding of system design and real development workflows.<br>🌱 Learning by doing and practices every day.<br>💬 Ask me about website, debugging struggles, and leveling up as a developer.<br>⚡ Fun fact: I don’t just want my code to work, I want to understand why it works.
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenfirdaus/zenfirdaus/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenfirdaus/zenfirdaus/output/pacman-contribution-graph.svg">
